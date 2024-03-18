@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<trenuri>
+    <tren id="IR01668">
+        <gara nume="Iasi">
+            <status_plecare>Fara intarziere</status_plecare>
+            <status_sosire>Inceput ruta</status_sosire>
+            <ora_plecare>00:06</ora_plecare>
+            <data_plecare>16-01-2024</data_plecare>
+            <ora_sosire>Inceput ruta</ora_sosire>
+            <data_sosire>Inceput ruta</data_sosire>
+            <intarziere_sosire>Inceput ruta</intarziere_sosire>
+            <intarziere_plecare>0 minute</intarziere_plecare>
+            <mai_devreme_plecare>0 minute</mai_devreme_plecare>
+            <mai_devreme_sosire>Inceput ruta</mai_devreme_sosire>
+        </gara>
+        <gara nume="Vaslui">
+            <status_plecare>Fara intarziere</status_plecare>
+            <status_sosire>Fara intarziere</status_sosire>
+            <ora_plecare>01:17</ora_plecare>
+            <data_plecare>16-01-2024</data_plecare>
+            <ora_sosire>01:15</ora_sosire>
+            <data_sosire>16-01-2024</data_sosire>
+            <intarziere_sosire>0 minute</intarziere_sosire>
+            <intarziere_plecare>0 minute</intarziere_plecare>
+            <mai_devreme_plecare>0 minute</mai_devreme_plecare>
+            <mai_devreme_sosire>0 minute</mai_devreme_sosire>
+        </gara>
+        <gara nume="Focsani">
+            <status_plecare>Fara intarziere</status_plecare>
+            <status_sosire>Fara intarziere</status_sosire>
+            <ora_plecare>04:17</ora_plecare>
+            <data_plecare>16-01-2024</data_plecare>
+            <ora_sosire>04:17</ora_sosire>
+            <data_sosire>16-01-2024</data_sosire>
+            <intarziere_sosire>0 minute</intarziere_sosire>
+            <intarziere_plecare>0 minute</intarziere_plecare>
+            <mai_devreme_plecare>0 minute</mai_devreme_plecare>
+            <mai_devreme_sosire>0 minute</mai_devreme_sosire>
+        </gara>
+        <gara nume="Buzau">
+            <status_plecare>Fara intarziere</status_plecare>
+            <status_sosire>Fara intarziere</status_sosire>
+            <ora_plecare>06:28</ora_plecare>
+            <data_plecare>16-01-2024</data_plecare>
+            <ora_sosire>06:12</ora_sosire>
+            <data_sosire>16-01-2024</data_sosire>
+            <intarziere_sosire>0 minute</intarziere_sosire>
+            <intarziere_plecare>0 minute</intarziere_plecare>
+            <mai_devreme_plecare>0 minute</mai_devreme_plecare>
+            <mai_devreme_sosire>0 minute</mai_devreme_sosire>
+        </gara>
+        <gara nume="Constanta">
+            <status_plecare>Sfarsit ruta</status_plecare>
+            <status_sosire>Fara intarziere</status_sosire>
+            <ora_plecare>Sfarsit ruta</ora_plecare>
+            <data_plecare>Sfarsit ruta</data_plecare>
+            <ora_sosire>09:14</ora_sosire>
+            <data_sosire>16-01-2024</data_sosire>
+            <intarziere_sosire>0 minute</intarziere_sosire>
+            <intarziere_plecare>Sfarsit ruta</intarziere_plecare>
+            <mai_devreme_plecare>Sfarsit ruta</mai_devreme_plecare>
+            <mai_devreme_sosire>0 minute</mai_devreme_sosire>
+        </gara>
+    </tren>
+    <tren id="IR01660">
+        <gara nume="Iasi">
+            <status_plecare>Fara intarziere</status_plecare>
+            <status_sosire>Inceput ruta</status_sosire>
+            <ora_plecare>06:24</ora_plecare>
+            <data_plecare>16-01-2024</data_plecare>
+            <ora_sosire>Inceput ruta</ora_sosire>
+            <data_sosire>Inceput ruta</data_sosire>
+            <intarziere_sosire>Inceput ruta</intarziere_sosire>
+            <intarziere_plecare>0 minute</intarziere_plecare>
+            <mai_devreme_plecare>0 minute</mai_devreme_plecare>
+            <mai_devreme_sosire>Inceput ruta</mai_devreme_sosire>
+        </gara>
+         <gara nume="Vaslui">
+            <status_plecare>Fara intarziere</status_plecare>
+            <status_sosire>Fara intarziere</status_sosire>
+            <ora_plecare>07:25</ora_plecare>
+            <data_plecare>16-01-2024</data_plecare>
+            <ora_sosire>07:23</ora_sosire>
+            <data_sosire>16-01-2024</data_sosire>
+            <intarziere_sosire>0 minute</intarziere_sosire>
+            <intarziere_plecare>0 minute</intarziere_plecare>
+            <mai_devreme_plecare>0 minute</mai_devreme_plecare>
+            <mai_devreme_sosire>0 minute</mai_devreme_sosire>
+        </gara>
+         <gara nume="Barlad">
+            <status_plecare>Fara intarziere</status_plecare>
+            <status_sosire>Fara intarziere</status_sosire>
+            <ora_plecare>08:17</ora_plecare>
+            <data_plecare>16-01-2024</data_plecare>
+            <ora_sosire>08:15</ora_sosire>
+            <data_sosire>16-01-2024</data_sosire>
+            <intarziere_sosire>0 minute</intarziere_sosire>
+            <intarziere_plecare>0 minute</intarziere_plecare>
+            <mai_devreme_plecare>0 minute</mai_devreme_plecare>
+            <mai_devreme_sosire>0 minute</mai_devreme_sosire>
+        </gara>
+         <gara nume="Tecuci">
+            <status_plecare>Fara intarziere</status_plecare>
+            <status_sosire>Fara intarziere</status_sosire>
+            <ora_plecare>09:08</ora_plecare>
+            <data_plecare>16-01-2024</data_plecare>
+            <ora_sosire>08:53</ora_sosire>
+            <data_sosire>16-01-2024</data_sosire>
+            <intarziere_sosire>0 minute</intarziere_sosire>
+            <intarziere_plecare>0 minute</intarziere_plecare>
+            <mai_devreme_plecare>0 minute</mai_devreme_plecare>
+            <mai_devreme_sosire>0 minute</mai_devreme_sosire>
+        </gara>
+         <gara nume="Focsani">
+            <status_plecare>Fara intarziere</status_plecare>
+            <status_sosire>Fara intarziere</status_sosire>
+            <ora_plecare>09:52</ora_plecare>
+            <data_plecare>16-01-2024</data_plecare>
+            <ora_sosire>09:50</ora_sosire>
+            <data_sosire>16-01-2024</data_sosire>
+            <intarziere_sosire>0 minute</intarziere_sosire>
+            <intarziere_plecare>0 minute</intarziere_plecare>
+            <mai_devreme_plecare>0 minute</mai_devreme_plecare>
+            <mai_devreme_sosire>0 minute</mai_devreme_sosire>
+        </gara>
+        <gara nume="Buzau">
+            <status_plecare>Fara intarziere</status_plecare>
+            <status_sosire>Fara intarziere</status_sosire>
+            <ora_plecare>11:07</ora_plecare>
+            <data_plecare>16-01-2024</data_plecare>
+            <ora_sosire>11:04</ora_sosire>
+            <data_sosire>16-01-2024</data_sosire>
+            <intarziere_sosire>0 minute</intarziere_sosire>
+            <intarziere_plecare>0 minute</intarziere_plecare>
+            <mai_devreme_plecare>0 minute</mai_devreme_plecare>
+            <mai_devreme_sosire>0 minute</mai_devreme_sosire>
+        </gara>
+        <gara nume="Ploiesti">
+            <status_plecare>Fara intarziere</status_plecare>
+            <status_sosire>Fara intarziere</status_sosire>
+            <ora_plecare>12:18</ora_plecare>
+            <data_plecare>16-01-2024</data_plecare>
+            <ora_sosire>12:17</ora_sosire>
+            <data_sosire>16-01-2024</data_sosire>
+            <intarziere_sosire>0 minute</intarziere_sosire>
+            <intarziere_plecare>0 minute</intarziere_plecare>
+            <mai_devreme_plecare>0 minute</mai_devreme_plecare>
+            <mai_devreme_sosire>0 minute</mai_devreme_sosire>
+        </gara>
+        <gara nume="Bucuresti">
+            <status_plecare>Sfarsit ruta</status_plecare>
+            <status_sosire>Fara intarziere</status_sosire>
+            <ora_plecare>Sfarsit ruta</ora_plecare>
+            <data_plecare>Sfarsit ruta</data_plecare>
+            <ora_sosire>12:58</ora_sosire>
+            <data_sosire>16-01-2024</data_sosire>
+            <intarziere_sosire>0 minute</intarziere_sosire>
+            <intarziere_plecare>Sfarsit ruta</intarziere_plecare>
+            <mai_devreme_plecare>Sfarsit ruta</mai_devreme_plecare>
+            <mai_devreme_sosire>0 minute</mai_devreme_sosire>
+        </gara>
+    </tren>
+</trenuri>
